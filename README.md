@@ -1,4 +1,4 @@
 # slam-ransomware
  un ransomware escrito en c# que es capaz de sobreescribir el mbr y logonui.exe, junto con otras funciones que hacen que este ransomware sea un poquito especial
 
-puedes reparar el pc y los archivos siguiendo los pasos de esta web: http://anmodi.000webhostapp.com/slam.html
+Actualmente no se puede reparar ni el pc ni los archivos, me están llegando correos de gente real infectada por el virus, porfavor NO mandéis este virus a nadie!!!
