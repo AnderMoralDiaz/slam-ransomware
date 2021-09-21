@@ -17,11 +17,11 @@ y cambia el mbr por una imagen. ahora ya no se puede cerrar sesión, encender el
 etapa dos
 
 una vez hecho todo eso vacía la papelera de reciclaje y genera una ID (20 dígitos) y una clave (90 dígitos), manda datos de la victima a una web, los datos son el nombre de la victima, el nombre de su pc, y su ID.
-borra las copias de seguridad y empieza a cerrar una lista de procesos (msedge, taskmgr, chrome, regedit, notepad y searchapp). luego hace que el proceso principal del virus sea critico, lo que provoca que si cierras el proceso se genere un bsod.
+borra las copias de seguridad y empieza a cerrar una lista de procesos (msedge, taskmgr, chrome, regedit, notepad y searchapp). luego hace que el proceso principal del virus sea critico, lo que provoca que si cierras el proceso se genere un bsod, luego bloquea una gran lista de webs (avast.com, youtube, norton.com etc...).
 
 etapa tres (ultima etapa)
 
-empieza la encriptación, cuando a encriptado todos los directorios se cambia el fondo de pantalla, se muestra el menú principal del virus y enciende el temporizador de 12 horas.
+empieza la encriptación, cuando a encriptado todos los directorios se cambia el fondo de pantalla, crea un documento de texto en todos los directorios, se muestra el menú principal del virus y enciende el temporizador de 12 horas.
 
 en el menú se puede ver un botón para ver el registro de los archivos encriptados, otro botón para cambiar el idioma, y otro para revisar el pago, cuando pulsas el botón ok el virus se conecta a una web y comprueba si esta contiene la id del infectado, si no es así muestra un error y si la contiene empieza a desencriptar
 
