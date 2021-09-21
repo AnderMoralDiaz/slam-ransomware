@@ -31,4 +31,4 @@ luego el virus se cierra y ya esta.
 no mandes esto a nadie que ya han habido infectados y no me hace una pizca de gracia, esto solo es por diversión y para probarlo en una VM
 el virus esta escrito en c# y si estas infectado simplemente entra en este enlace: https://idomna.000webhostapp.com/data2.php?info=TU-ID pero cambia TU-ID por tu ID
 luego pulsa ok y espera (:
-(Esto solo funciona el la versión 2.0, en la 1.0 no hay nada que hacer ya que era solo de prueba ¯\_(ツ)_/¯ )
+(Esto solo funciona el la versión 2.0 hasta la 2.1, en la 1.0 no hay nada que hacer ya que el servidor al que se conectaba el virus a sido eliminado ¯\__(ツ)__/¯ )
