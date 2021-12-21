@@ -1,5 +1,7 @@
 # slam-ransomware
 
+actualmente hay un bug que provoca que el menu no responda constantemente, se soluciona teniendo conexion a internet, el bug no creo que lo solucione ya que es un coñazo crear 4 ejecutables diferentes.
+
 etapas de slam:
 
 etapa cero
